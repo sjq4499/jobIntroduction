@@ -1,8 +1,8 @@
 {
-  "name": "react-deploy-demo",
+  "name": "jobIntroduction",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sjq4499.github.io/react-deploy-demo",
+  "homepage": "https://sjq4499.github.io/jobIntroduction",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
