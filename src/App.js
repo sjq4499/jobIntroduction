@@ -229,7 +229,7 @@ html{
 
   rain = () => {
     let { heartRains } = this.state;
-    const rainNum = 30;
+    const rainNum = 100;
     const stayTime = rainNum * 200 + 1000 + 4000;
     const time = new Date().getTime();
     if (
@@ -249,7 +249,6 @@ html{
     heartRains = heartRains.filter((item) => item.time !== time);
     this.setState({ heartRains });
   }
-
   render() {
     const { currentStyleCode, finished, heartRains } = this.state;
     return (

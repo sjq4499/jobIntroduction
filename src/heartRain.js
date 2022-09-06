@@ -56,7 +56,9 @@ class Rain extends React.Component {
           transitionTimingFunction: 'linear',
           fontSize: 20,
         }}
-      ></span>
+      >
+        &hearts;
+      </span>
     );
   }
 }

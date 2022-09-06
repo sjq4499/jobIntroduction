@@ -17,6 +17,7 @@ body {
 }
 .rain {
   position: absolute;
+  color: #f55;
 }
 /* // .styleEditor {
 //     overflow: scroll;
